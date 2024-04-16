@@ -23,4 +23,4 @@ jobs:
         with:
           packsquash_version: latest
           options: |
-            pack_directory = 'test/empty_resource_pack'
+            pack_directory = 'test/empty_resource_pack.zip'
